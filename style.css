@@ -1,0 +1,23 @@
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    color: #F9FAF8;
+}
+
+li {
+    display: inline-block;
+}
+
+.header-links{
+    list-style: none;
+    margin-right: 100px;
+    padding-top: 5px;
+}
+
+.logo {
+    font-size: 24px;
+    margin-left: 200px;
+    color: #F9FaF8;
+}
